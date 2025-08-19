@@ -1,79 +1,80 @@
 [
 	{
-		"id": "wedding_001",
+		"id": "mature_001",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/120577d5.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_002",
+		"id": "mature_002",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/15600541.jpg",
 		"category": "mature"
 	},
 	{
-		"id": "wedding_003",
+		"id": "mature_003",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a2bb061.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_004",
+		"id": "mature_004",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a85f3e6.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_005",
+		"id": "mature_005",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6c922c8b.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_006",
+		"id": "mature_006",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6e7a6203.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_007",
+		"id": "mature_007",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6f1fe628.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_008",
+		"id": "mature_008",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/a40c1443.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_009",
+		"id": "mature_009",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/bc42a743.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_010",
+		"id": "mature_010",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb08.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_011",
+		"id": "mature_011",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb09.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_012",
+		"id": "mature_012",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb10.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_013",
+		"id": "mature_013",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb11.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_014",
+		"id": "mature_014",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb12.jpg",
-		"category": "wedding"
+		"category": "mature"
 	},
 	{
-		"id": "wedding_015",
+		"id": "mature_015",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/fa9641ed.jpg",
-		"category": "wedding"
+		"category": "mature"
 	}
 ]
+
 
 
