@@ -1,6 +1,6 @@
 [
 	{
-		"id": "weeding_001",
+		"id": "wedding_001",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/120577d5.jpg",
 		"category": "wedding"
 	},
@@ -75,6 +75,7 @@
 		"category": "wedding"
 	}
 ]
+
 
 
 
