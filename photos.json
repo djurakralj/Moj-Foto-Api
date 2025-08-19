@@ -1,80 +1,81 @@
 [
 	{
 		"id": "mature_001",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/120577d5.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/120577d5.png",
 		"category": "mature"
 	},
 	{
 		"id": "mature_002",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/15600541.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/15600541.png",
 		"category": "mature"
 	},
 	{
 		"id": "mature_003",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a2bb061.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a2bb061.png",
 		"category": "mature"
 	},
 	{
 		"id": "wedding_004",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a85f3e6.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a85f3e6.png",
 		"category": "mature"
 	},
 	{
 		"id": "wedding_005",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6c922c8b.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6c922c8b.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_006",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6e7a6203.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6e7a6203.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_007",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6f1fe628.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6f1fe628.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_008",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/a40c1443.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/a40c1443.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_009",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/bc42a743.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/bc42a743.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_010",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb08.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb08.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_011",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb09.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb09.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_012",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb10.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb10.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_013",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb11.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb11.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_014",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb12.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb12.png",
 		"category": "wedding"
 	},
 	{
 		"id": "wedding_015",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/fa9641ed.jpg",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/fa9641ed.png",
 		"category": "wedding"
 	}
 ]
+
 
 
 
