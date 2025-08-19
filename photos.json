@@ -2,7 +2,7 @@
 	{
 		"id": "mature_001",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/120577d5.png",
-		"category": "mature"
+		"category": "wedding"
 	},
 	{
 		"id": "mature_003",
@@ -13,11 +13,6 @@
 		"id": "wedding_004",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a85f3e6.png",
 		"category": "mature"
-	},
-	{
-		"id": "wedding_005",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6c922c8b.png",
-		"category": "wedding"
 	},
 	{
 		"id": "wedding_007",
@@ -60,6 +55,7 @@
 		"category": "wedding"
 	}
 ]
+
 
 
 
