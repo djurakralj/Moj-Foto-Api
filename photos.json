@@ -5,11 +5,6 @@
 		"category": "mature"
 	},
 	{
-		"id": "mature_002",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/15600541.png",
-		"category": "mature"
-	},
-	{
 		"id": "mature_003",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a2bb061.png",
 		"category": "mature"
@@ -25,11 +20,6 @@
 		"category": "wedding"
 	},
 	{
-		"id": "wedding_006",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6e7a6203.png",
-		"category": "wedding"
-	},
-	{
 		"id": "wedding_007",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6f1fe628.png",
 		"category": "wedding"
@@ -42,11 +32,6 @@
 	{
 		"id": "wedding_009",
 		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/bc42a743.png",
-		"category": "wedding"
-	},
-	{
-		"id": "wedding_010",
-		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb08.png",
 		"category": "wedding"
 	},
 	{
@@ -75,6 +60,7 @@
 		"category": "wedding"
 	}
 ]
+
 
 
 
