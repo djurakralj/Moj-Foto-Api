@@ -1,77 +1,77 @@
 [
-  {
-    "id": "wedding_001",
-    "imageUrl": "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_002",
-    "imageUrl": "https://images.pexels.com/photos/2253870/pexels-photo-2253870.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_003",
-    "imageUrl": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_004",
-    "imageUrl": "https://images.pexels.com/photos/313707/pexels-photo-313707.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_005",
-    "imageUrl": "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_006",
-    "imageUrl": "https://images.pexels.com/photos/1128783/pexels-photo-1128783.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_007",
-    "imageUrl": "https://images.pexels.com/photos/2658987/pexels-photo-2658987.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_008",
-    "imageUrl": "https://images.pexels.com/photos/916337/pexels-photo-916337.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_009",
-    "imageUrl": "https://images.pexels.com/photos/1779439/pexels-photo-1779439.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_010",
-    "imageUrl": "https://images.pexels.com/photos/1312333/pexels-photo-1312333.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_011",
-    "imageUrl": "https://images.pexels.com/photos/1244793/pexels-photo-1244793.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_012",
-    "imageUrl": "https://images.pexels.com/photos/2040716/pexels-photo-2040716.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_013",
-    "imageUrl": "https://images.pexels.com/photos/948185/pexels-photo-948185.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_014",
-    "imageUrl": "https://images.pexels.com/photos/1406282/pexels-photo-1406282.jpeg",
-    "category": "wedding"
-  },
-  {
-    "id": "wedding_015",
-    "imageUrl": "https://images.pexels.com/photos/301599/pexels-photo-301599.jpeg",
-    "category": "wedding"
-  }
+	{
+		"id": "wedding_001",
+		"imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/120577d5.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_002",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/15600541.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_003",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a2bb061.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_004",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/5a85f3e6.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_005",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6c922c8b.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_006",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6e7a6203.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_007",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/6f1fe628.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_008",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/a40c1443.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_009",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/bc42a743.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_010",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb08.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_011",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb09.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_012",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb10.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_013",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb11.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_014",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/d0e6cb12.jpg",
+		"category": "wedding"
+	},
+	{
+		"id": "wedding_015",
+		"imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/main/fa9641ed.jpg",
+		"category": "wedding"
+	}
 ]
