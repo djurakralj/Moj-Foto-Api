@@ -1,0 +1,77 @@
+[
+  {
+    "id": "wedding_001",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/120577d5.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_002",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/15600541.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_003",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/5a2bb061.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_004",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/5a85f3e6.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_005",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/6c922c8b.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_006",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/6e7a6203.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_007",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/6f1fe628.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_008",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/a40c1443.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_009",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/bc42a743.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_010",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/d0e6cb08.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_011",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/d0e6cb09.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_012",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/d0e6cb10.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_013",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/d0e6cb11.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_014",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/d0e6cb12.jpg",
+    "category": "wedding"
+  },
+  {
+    "id": "wedding_015",
+    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/fa9641ed.jpg",
+    "category": "wedding"
+  }
+]
