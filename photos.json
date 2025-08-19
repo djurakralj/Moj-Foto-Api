@@ -1,7 +1,7 @@
 [
   {
     "id": "wedding_001",
-    "imageUrl": "https://github.com/djurakralj/Moj-Foto-Api/blob/main/120577d5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/djurakralj/Moj-Foto-Api/refs/heads/main/120577d5.jpg",
     "category": "wedding"
   },
   {
@@ -75,3 +75,4 @@
     "category": "wedding"
   }
 ]
+
